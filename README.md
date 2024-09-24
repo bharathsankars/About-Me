@@ -33,3 +33,4 @@ I’m always eager to expand my knowledge, and I’m committed to continuous lea
 
 🤝 Let's Collaborate!
 Feel free to connect with me here on GitHub, or reach out via LinkedIn if you’d like to collaborate or discuss tech!
+www.linkedin.com/in/bharathsankar
