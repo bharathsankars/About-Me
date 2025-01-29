@@ -1,36 +1,64 @@
-Hi, I'm Bharath Sankar Sankaramangalam 👋
+                                                                                      About Me
+                                                                                      
+I am Bharath Sankar Sankaramangalam, a passionate and results-driven Full-Stack Developer with expertise in designing and developing dynamic, scalable, and high-performance web applications. With a strong foundation in Angular, React, Java Spring Boot, and PostgreSQL, I specialize in building modern, responsive, and user-friendly applications that enhance user experience and drive efficiency.
 
-I'm a passionate developer with a focus on building dynamic and scalable web applications. My expertise spans frontend development, backend systems
-and database management. Below you'll find a snapshot of my experience and skills.
+💻 Technical Expertise
 
-🛠️ **Tech Stack & Skills**
 
-Frontend
-Angular: Developed dynamic and responsive user interfaces using Angular for large-scale applications like Infosys' E-learning platform, Wingspan.
-Micro-Frontend Architecture: Implemented modular, independently deployable components for breaking down monolithic applications.
-UI/UX: Integrated Material UI and Tailwind CSS to create visually appealing and user-friendly designs.
+Frontend Development
+Angular (2+ years): Built dynamic and responsive UIs for enterprise applications like Infosys’ flagship E-learning platform, Wingspan.
+React (Currently Learning & Implementing): Developing scalable and reusable UI components with a focus on performance and maintainability.
+Micro-Frontend Architecture: Implemented modular, independently deployable components to break down monolithic applications.
+UI/UX Design: Integrated Material UI and Tailwind CSS to create visually appealing, accessible, and intuitive user interfaces.
 
-Backend & APIs
-RESTful APIs: Collaborated with cross-functional teams to design and implement REST APIs for seamless communication between frontend and backend services.
-Cron Jobs: Automated tasks such as content assignment, notification processing, and progress tracking using shell commands on Unix-like systems.
+Backend Development & APIs
+Java Spring Boot: Designed and implemented backend services, improving application performance and scalability.
+RESTful API Development: Built and integrated APIs, ensuring seamless communication between frontend and backend services.
+Node.js (Familiarity): Understanding of backend services and microservices architecture.
 
 Database Management
-MySQL / PostgreSQL: Designed and maintained databases, optimizing performance with strategic indexing and query optimization techniques.
-Indexing Best Practices: Provided guidance on indexing strategies to ensure scalability and performance in data-heavy applications.
+PostgreSQL & MySQL (2+ years): Designed, optimized, and maintained databases for large-scale applications.
+Indexing & Query Optimization: Implemented strategic indexing and performance tuning for efficient data retrieval.
 
-Tools & Frameworks
-Version Control: GitHub, Git
-Performance Optimization: Improved system performance through query optimization and efficient data handling.
+Cloud & DevOps
+Docker & Kubernetes: Understanding of containerization and orchestration for scalable deployment.
+CI/CD Pipelines: Experience in automating testing and deployment workflows.
 
-📚 **Currently Learning**
-React Js
-.Net
-VMware vSphere
-Veeam Backup
-Firewall Technologies
-Monitoring Tools (Paessler PRTG)
-I’m always eager to expand my knowledge, and I’m committed to continuous learning, especially in areas that enhance my ability to build robust and scalable solutions.
+Other Tools & Technologies
+Version Control: Proficient in Git, GitHub, and GitLab for efficient code management.
+Shell Scripting: Used for automating tasks such as cron jobs, system monitoring, and batch processing.
+VMware & Virtualization: Learning virtualization technologies for cloud infrastructure management.
+Monitoring & Security: Exposure to tools like Paessler PRTG, firewall technologies, and backup solutions such as Veeam Backup.
 
-🤝 Let's Collaborate!
-Feel free to connect with me here on GitHub, or reach out via LinkedIn if you’d like to collaborate or discuss tech!
-www.linkedin.com/in/bharathsankar
+🛠️ Work Experience
+
+Senior Systems Engineer – Infosys Limited
+
+Spearheaded the frontend development of Wingspan, a large-scale E-learning platform, using Angular and micro-frontend architecture.
+Collaborated with backend teams to develop RESTful APIs, ensuring smooth data flow.
+Optimized UI performance, reducing load times and improving user engagement.
+
+
+Freelance Developer – Samavay Technology Solutions
+
+Developed dynamic components for an academic resource management platform using React and TypeScript.
+Focused on state management, form validation, and user experience optimization.
+
+
+Intern – Dimind Innovations
+
+Worked on a hospital management system, enhancing backend performance using Spring Boot.
+Reduced response times and improved system reliability through database optimization.
+
+
+📚 Continuous Learning & Interests
+I am passionate about staying at the forefront of technology and continuously expanding my skill set. Currently, I am exploring:
+✅ Advanced React Development
+✅ .NET Framework
+✅ Cloud Security & DevOps
+✅ Virtualization & Cloud Computing (VMware, AWS, Azure)
+
+🤝 Let’s Connect!
+I am always open to collaboration, new challenges, and innovative projects also available for freelancing. Let’s connect on GitHub, LinkedIn, or via email to discuss potential opportunities!
+LinkedIn: https://www.linkedin.com/in/bharathsankar/
+Portfolio: https://bharathsankar-portfolio.vercel.app/
