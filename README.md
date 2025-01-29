@@ -1,4 +1,4 @@
-                                                                                      About Me
+ About Me
                                                                                       
 I am Bharath Sankar Sankaramangalam, a passionate and results-driven Full-Stack Developer with expertise in designing and developing dynamic, scalable, and high-performance web applications. With a strong foundation in Angular, React, Java Spring Boot, and PostgreSQL, I specialize in building modern, responsive, and user-friendly applications that enhance user experience and drive efficiency.
 
