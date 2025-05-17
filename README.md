@@ -5,8 +5,8 @@ I am Bharath Sankar Sankaramangalam, a passionate and results-driven Full-Stack 
 💻 Technical Expertise
 
 
-Frontend Development
-Angular (2+ years): Built dynamic and responsive UIs for enterprise applications like Infosys’ flagship E-learning platform, Wingspan.
+**Frontend Development**
+Angular (3+ years): Built dynamic and responsive UIs for enterprise applications like Infosys’ flagship E-learning platform, Wingspan.
 React (Currently Learning & Implementing): Developing scalable and reusable UI components with a focus on performance and maintainability.
 Micro-Frontend Architecture: Implemented modular, independently deployable components to break down monolithic applications.
 UI/UX Design: Integrated Material UI and Tailwind CSS to create visually appealing, accessible, and intuitive user interfaces.
@@ -30,8 +30,7 @@ Shell Scripting: Used for automating tasks such as cron jobs, system monitoring,
 VMware & Virtualization: Learning virtualization technologies for cloud infrastructure management.
 Monitoring & Security: Exposure to tools like Paessler PRTG, firewall technologies, and backup solutions such as Veeam Backup.
 
-🛠️ Work Experience
-
+🛠️ **Work Experience**
 Senior Systems Engineer – Infosys Limited
 
 Spearheaded the frontend development of Wingspan, a large-scale E-learning platform, using Angular and micro-frontend architecture.
@@ -51,7 +50,7 @@ Worked on a hospital management system, enhancing backend performance using Spri
 Reduced response times and improved system reliability through database optimization.
 
 
-📚 Continuous Learning & Interests
+📚 **Continuous Learning & Interests**
 I am passionate about staying at the forefront of technology and continuously expanding my skill set. Currently, I am exploring:
 ✅ Advanced React Development
 ✅ .NET Framework
@@ -61,4 +60,4 @@ I am passionate about staying at the forefront of technology and continuously ex
 🤝 Let’s Connect!
 I am always open to collaboration, new challenges, and innovative projects also available for freelancing. Let’s connect on GitHub, LinkedIn, or via email to discuss potential opportunities!
 LinkedIn: https://www.linkedin.com/in/bharathsankar/
-Portfolio: https://bharathsankar-portfolio.vercel.app/
+Portfolio: https://bharath-portfolio-beta.vercel.app/
