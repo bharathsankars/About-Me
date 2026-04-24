@@ -50,5 +50,7 @@ Full-Stack Engineer Intern @ BMW Group — React 18, TypeScript, Material UI, AG
 📍 Munich, Germany · Open to relocation · Available for full-time roles
 
 🌐 Portfolio  →  https://bharath-portfolio-main.vercel.app
+
 💼 LinkedIn   →  linkedin.com/in/bharathsankar
+
 📧 Email      →  bharathsankars@hotmail.com
