@@ -1,63 +1,54 @@
- About Me
-                                                                                      
-I am Bharath Sankar Sankaramangalam, a passionate and results-driven Full-Stack Developer with expertise in designing and developing dynamic, scalable, and high-performance web applications. With a strong foundation in Angular, React, Java Spring Boot, and PostgreSQL, I specialize in building modern, responsive, and user-friendly applications that enhance user experience and drive efficiency.
+**Frontend Developer · React · TypeScript · Redux · Webpack · Enterprise UI**
 
-💻 Technical Expertise
+I'm Bharath Sankar, a Frontend Developer with 4 years of experience building complex, enterprise-grade web applications across React, TypeScript, and Redux ecosystems. Currently working at BMW Group in Munich on a large-scale battery data platform, and pursuing my second masters in Applied Computer Science at Deggendorf Institute of Technology.
 
-
-**Frontend Development**
-Angular (3+ years): Built dynamic and responsive UIs for enterprise applications like Infosys’ flagship E-learning platform, Wingspan.
-React (Currently Learning & Implementing): Developing scalable and reusable UI components with a focus on performance and maintainability.
-Micro-Frontend Architecture: Implemented modular, independently deployable components to break down monolithic applications.
-UI/UX Design: Integrated Material UI and Tailwind CSS to create visually appealing, accessible, and intuitive user interfaces.
-
-Backend Development & APIs
-Java Spring Boot: Designed and implemented backend services, improving application performance and scalability.
-RESTful API Development: Built and integrated APIs, ensuring seamless communication between frontend and backend services.
-Node.js (Familiarity): Understanding of backend services and microservices architecture.
-
-Database Management
-PostgreSQL & MySQL (2+ years): Designed, optimized, and maintained databases for large-scale applications.
-Indexing & Query Optimization: Implemented strategic indexing and performance tuning for efficient data retrieval.
-
-Cloud & DevOps
-Docker & Kubernetes: Understanding of containerization and orchestration for scalable deployment.
-CI/CD Pipelines: Experience in automating testing and deployment workflows.
-
-Other Tools & Technologies
-Version Control: Proficient in Git, GitHub, and GitLab for efficient code management.
-Shell Scripting: Used for automating tasks such as cron jobs, system monitoring, and batch processing.
-VMware & Virtualization: Learning virtualization technologies for cloud infrastructure management.
-Monitoring & Security: Exposure to tools like Paessler PRTG, firewall technologies, and backup solutions such as Veeam Backup.
-
-🛠️ **Work Experience**
-Senior Systems Engineer – Infosys Limited
-
-Spearheaded the frontend development of Wingspan, a large-scale E-learning platform, using Angular and micro-frontend architecture.
-Collaborated with backend teams to develop RESTful APIs, ensuring smooth data flow.
-Optimized UI performance, reducing load times and improving user engagement.
+I specialise in data-intensive dashboard UIs, SPA architecture, responsive cross-browser interfaces, and role-based access systems — with a strong commitment to accessibility (WCAG), performance optimisation, and clean modular architecture.
 
 
-Freelance Developer – Samavay Technology Solutions
+**Currently**
+Full-Stack Engineer Intern @ BMW Group — React 18, TypeScript, Material UI, AG Grid, Redux, data visualisation dashboards for battery R&D platform
 
-Developed dynamic components for an academic resource management platform using React and TypeScript.
-Focused on state management, form validation, and user experience optimization.
+ **Tech Stack**
+
+  Frontend       React.js (v18), TypeScript, JavaScript (ES6+), Redux,Webpack, HTML5, CSS3, Tailwind CSS, Material UI, AG Grid, Angular, Next.js
+
+  Backend        Node.js, ASP.NET Core, Spring Boot, REST APIs, TypeORM
+
+  Databases      PostgreSQL, MongoDB, MySQL, Couchbase NoSQL
+
+  Testing        React Testing Library, Playwright, Jest
+
+  DevOps         Git, GitHub Actions, CI/CD, Docker (basics)
+
+  Auth           JWT, OAuth 2.0, RBAC, OTP-based verification
 
 
-Intern – Dimind Innovations
+**What I Build**
 
-Worked on a hospital management system, enhancing backend performance using Spring Boot.
-Reduced response times and improved system reliability through database optimization.
+  ✦ Enterprise SPAs with complex state management and data visualisation
+  ✦ Responsive, cross-browser UIs for desktop, tablet, and mobile
+  ✦ Role-based access control systems for multi-tier user environments
+  ✦ Admin dashboards replacing manual spreadsheet workflows
+  ✦ Modular micro-frontend architectures for large-scale platforms
+  ✦ Accessible interfaces meeting WCAG compliance standards
+
+---
+
+  **Selected Work**
+
+  SPACE @ BMW                   Battery cell dataset analysis platform — React 18, TypeScript, AG Grid, Material UI, Redux, RBAC
+
+  Knowledge Platform @ Samavay  Full-stack platform — React TypeScript, ASP.NET Core, microservices, Couchbase NoSQL, JWT auth, RBAC
+
+  Wingspan @ Infosys            Enterprise e-learning UI system — Angular, TypeScript, Tailwind CSS serving 10,000+ active users
+
+  Smart Background Studio       AI-powered background segmentation desktop app — U²-Net deep learning, real-time webcam processing
+
+  MediCore                      Hospital operations platform — Spring Boot, RBAC, JWT, event-driven REST API
 
 
-📚 **Continuous Learning & Interests**
-I am passionate about staying at the forefront of technology and continuously expanding my skill set. Currently, I am exploring:
-✅ Advanced React Development
-✅ .NET Framework
-✅ Cloud Security & DevOps
-✅ Virtualization & Cloud Computing (VMware, AWS, Azure)
+📍 Munich, Germany · Open to relocation · Available for full-time roles
 
-🤝 Let’s Connect!
-I am always open to collaboration, new challenges, and innovative projects also available for freelancing. Let’s connect on GitHub, LinkedIn, or via email to discuss potential opportunities!
-LinkedIn: https://www.linkedin.com/in/bharathsankar/
-Portfolio: https://bharath-portfolio-beta.vercel.app/
+🌐 Portfolio  →  https://bharath-portfolio-main.vercel.app
+💼 LinkedIn   →  linkedin.com/in/bharathsankar
+📧 Email      →  bharathsankars@hotmail.com
