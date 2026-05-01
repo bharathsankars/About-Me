@@ -2,7 +2,7 @@
 
 I'm Bharath Sankar, a Frontend Developer with 4 years of experience building complex, enterprise-grade web applications across React, TypeScript, and Redux ecosystems. Currently working at BMW Group in Munich on a large-scale battery data platform, and pursuing my second masters in Applied Computer Science at Deggendorf Institute of Technology.
 
-I specialise in data-intensive dashboard UIs, SPA architecture, responsive cross-browser interfaces, and role-based access systems — with a strong commitment to accessibility (WCAG), performance optimisation, and clean modular architecture.
+I specialise in data-intensive dashboard UIs, SPA architecture, responsive cross-browser interfaces, and role-based access systems with a strong commitment to accessibility (WCAG), performance optimisation, and clean modular architecture.
 
 
 **Currently**
