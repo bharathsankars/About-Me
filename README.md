@@ -92,7 +92,9 @@ MSc Applied Computer Science / Infotronics · Deggendorf Institute of Technology
 Available for Working Student roles (20 hrs/wk) alongside studies.
 
 ### Hold
+
 Masters In Computer Applicatoin (MCA)
+
 Bachelors In Computer Application (BCA)
 
 ---
