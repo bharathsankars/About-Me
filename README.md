@@ -1,4 +1,4 @@
-## Bharath Sankar · Full-Stack Engineer
+## Bharath Sankar S · Full-Stack Engineer
 
 `TypeScript` `React` `Node.js` `PostgreSQL` · Munich, Germany · Open to roles in Germany & Europe
 
