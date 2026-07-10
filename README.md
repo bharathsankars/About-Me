@@ -1,12 +1,10 @@
 # Hello, I'm Bharath Sankar
 
-<p align="center">
+<p align="left">
 
 <a href="https://bharath-portfolio-main.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;
 
