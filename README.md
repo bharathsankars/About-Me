@@ -1,8 +1,8 @@
 # I'm Bharath Sankar
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=flat-square&logo=vercel)](https://bharath-portfolio-main.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-bharathsankars-black?style=flat-square&logo=github)](https://github.com/bharathsankars)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath%20Sankar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bharathsankar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=flat-square&logo=vercel)]  (https://bharath-portfolio-main.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-bharathsankars-black?style=flat-square&logo=github)]  (https://github.com/bharathsankars)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath%20Sankar-blue?style=flat-square&logo=linkedin)]  (https://linkedin.com/in/bharathsankar/)
 
 ## Full-Stack Software Engineer
 
