@@ -2,20 +2,20 @@
 
 <p align="center">
 
-<span style="margin-right: 18px;">
 <a href="https://bharath-portfolio-main.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
 </a>
-</span>
 
-<span style="margin-right: 18px;">
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/bharathsankars">
-<img src="https://img.shields.io/badge/GitHub-bharathsankars-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
-</span>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/bharathsankar/">
-<img src="https://img.shields.io/badge/LinkedIn-Bharath_Sankar-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
