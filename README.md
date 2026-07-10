@@ -1,112 +1,166 @@
-## Bharath Sankar S · Full-Stack Engineer
+# Hi, I'm Bharath Sankar 👋
 
-`TypeScript` `React` `Node.js` `PostgreSQL` · Munich, Germany · Open to roles in Germany & Europe
+## Full-Stack Software Engineer
 
----
-
-Full-Stack Engineer with **4 years** across enterprise platforms and startup products. Right now I'm at **BMW Group** in Munich, building data tooling for battery cell R&D — React UIs that process thousands of records in real time, TypeScript pipelines for Excel ingestion, and RBAC-secured admin dashboards that replaced manual spreadsheet workflows.
-
-Before that: **Infosys**, where I owned the frontend architecture for three modules of a platform with 10,000+ active users, mentored six engineers, and shipped accessibility-first redesigns that measurably cut drop-off rates.
-
-I write TypeScript by default, test from the start, and treat code review as a craft. I work well in cross-functional Agile teams and can own a feature from schema design to deployed UI.
-
-**Looking for:** Full-Stack / Frontend / Working Student roles (20 hrs/wk) in Germany or Europe · Available now
+`TypeScript` · `React` · `Node.js` · `Python` · `PostgreSQL` · `AWS` · `Munich, Germany`
 
 ---
 
-### Tech I work with daily
+I’m a Full-Stack Software Engineer with 4+ years of experience building scalable web applications, backend services, and enterprise platforms using modern JavaScript and cloud technologies.
+
+Currently, I work at **BMW Group**, where I build internal applications for Battery Systems R&D. My work focuses on developing React applications, designing backend workflows, processing engineering datasets, building secure REST APIs, and improving engineering productivity through AI-assisted automation.
+
+Previously at **Infosys**, I owned frontend development across multiple enterprise modules serving over **10,000 active users**, led accessibility-first redesigns, mentored engineers, and contributed throughout the complete software development lifecycle.
+
+Alongside my enterprise experience, I've also designed and delivered production-ready full-stack solutions as a freelance developer, taking ownership from requirements gathering through architecture, development, deployment, and client delivery.
+
+I enjoy solving complex engineering problems, building scalable software, and continuously improving developer experience through clean architecture, automated testing, and maintainable code.
+
+---
+
+## 🚀 What I'm Looking For
+
+I'm currently open to opportunities across Germany and Europe as a:
+
+- Full-Stack Software Engineer
+- Frontend Engineer
+- Software Engineer
+- Working Student (Software Engineering)
+
+I enjoy joining product-focused teams where engineers are trusted to take ownership, collaborate openly, and build software that creates real impact.
+
+---
+
+# Tech Stack
+
+### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss)
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+### Backend
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
 
----
+### Database & Cloud
 
-### Experience
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
-**BMW Group** · Full-Stack Engineer Intern · *Jan 2026 – Present · Munich*
+### Testing & DevOps
 
-Working on the Battery Systems Platform — an internal R&D tool used by engineers to analyse and manage large battery cell datasets.
-
-- React 18 + AG Grid UIs for real-time dataset analysis, comparison views, and advanced filtering across thousands of records
-- TypeScript ingestion pipeline: parses uploaded Excel files, detects duplicates against PostgreSQL, and flags new vs. existing records — improved data integrity for R&D decisions
-- RBAC implementation (admin / supervisor / user) with dynamic role-based rendering; access paths verified at both API and UI layer
-- Admin dashboard to replace a manual spreadsheet workflow — dataset management, upload monitoring, and audit trail via REST API integration
-
----
-
-**Infosys Limited** · Senior Systems Engineer · *Aug 2021 – Sep 2024 · Bangalore*
-
-Owned frontend architecture across three modules of **Wingspan**, Infosys's internal e-learning platform, serving 10,000+ users.
-
-- Built the UI design system in Angular + TypeScript + Tailwind CSS, adopted across three product modules with consistent, accessible interfaces
-- Engineered RBAC and dynamic rendering logic for 4+ user tiers; eliminated access violations flagged in enterprise security reviews
-- Led accessibility-first redesign of onboarding and profile flows (semantic HTML, ARIA, WCAG) — 18% reduction in drop-off rate
-- Mentored 6 engineers; introduced testing standards and DX practices that drove a 30% improvement in sprint velocity
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 
 ---
 
-**Samavay Technology Solutions** · Freelance Software Developer · *Oct 2024 – Mar 2025 · Remote*
+# Professional Experience
 
-Greenfield full-stack build for a B2B knowledge-sharing platform.
+## BMW Group — Full-Stack Engineer Intern
+**Jan 2026 – Present | Munich, Germany**
 
-- React (TypeScript) frontend + ASP.NET Core microservices backend — article publishing, search, and multi-role collaboration
-- Couchbase NoSQL with full-text search, optimised indexing, and async queries for sub-second content retrieval
-- OTP-based identity verification with token-driven session management; RBAC across user tiers
-- Introduced dependency injection, modular service architecture, and centralised logging — codebase built to be testable from day one
+Building enterprise applications for Battery Systems R&D.
 
----
-
-### Projects
-
-**[Smart Background Studio]**
-Real-time background segmentation using U²-Net deep learning — live webcam streams, configurable foreground modes (transparency, blur, custom image). Applied to identity verification workflows for digital banking onboarding.
-`Python` `U²-Net` `Computer Vision` `Deep Learning`
+- Developed production-ready React applications with TypeScript and AG Grid for engineering data analysis.
+- Took technical ownership of AI-assisted document processing workflows, improving data reliability across 100+ battery parameters.
+- Designed scalable backend integrations using Python, PostgreSQL, and REST APIs.
+- Implemented Role-Based Access Control (RBAC), validation workflows, and duplicate detection mechanisms.
+- Collaborated with cross-functional engineering teams throughout Agile development, code reviews, and CI/CD delivery.
 
 ---
 
-**[MediCore]**
-Hospital operations platform covering finance, inventory, and staffing workflows — built with Java Spring Boot, event-driven REST API, JWT auth, and RBAC aligned with financial transaction security requirements.
+## Infosys Limited — Senior Systems Engineer
+**Aug 2021 – Sep 2024**
+
+- Owned frontend architecture across multiple enterprise modules serving 10,000+ active users.
+- Delivered reusable UI systems using Angular, TypeScript, and Tailwind CSS.
+- Implemented RBAC, accessibility improvements, and enterprise REST API integrations.
+- Mentored six engineers while improving development standards and sprint velocity by 30%.
+
+---
+
+## Samavay Technology Solutions — Freelance Full-Stack Developer
+**Oct 2024 – Mar 2025**
+
+- Owned end-to-end delivery of a scalable knowledge-sharing platform.
+- Built secure backend services, REST APIs, authentication, and database architecture.
+- Worked directly with clients to translate requirements into production-ready software.
+
+---
+
+# Featured Projects
+
+## Smart Background Studio
+
+AI-powered desktop application for real-time background segmentation using U²-Net.
+
+**Highlights**
+
+- Real-time webcam processing
+- AI-powered segmentation
+- Configurable foreground modes
+- Identity verification workflow
+
+**Tech**
+
+`Python` `OpenCV` `Deep Learning` `Computer Vision`
+
+---
+
+## MediCore
+
+Hospital Operations Platform for finance, staffing, and inventory management.
+
+**Highlights**
+
+- Spring Boot backend
+- REST APIs
+- JWT Authentication
+- RBAC
+- SQL optimisation
+- Event-driven architecture
+
+**Tech**
+
 `Java` `Spring Boot` `REST API` `JWT` `PostgreSQL`
 
 ---
 
-### Currently
+# Currently Learning
 
-MSc Applied Computer Science / Infotronics · Deggendorf Institute of Technology · *In progress*
-Available for Working Student roles (20 hrs/wk) alongside studies.
-
-### Hold
-
-Masters In Computer Applicatoin (MCA)
-
-Bachelors In Computer Application (BCA)
+- Cloud-native application architecture
+- AI-powered developer workflows
+- GraphQL
+- System Design
+- AWS Solutions Architecture
 
 ---
 
-### Stats
+# GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathsankars&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathsankars&layout=compact&theme=github_dark&hide_border=true)
-
 ---
 
-### Get in touch
+# Let's Connect
 
-📧 bharathsankars@hotmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/bharathsankar/) &nbsp;·&nbsp; 🌐 [Portfolio](https://bharath-portfolio-main.vercel.app/)
+📧 **bharathsankars@hotmail.com**
+
+💼 LinkedIn  
+🌐 Portfolio
