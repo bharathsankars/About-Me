@@ -2,13 +2,17 @@
 
 <p align="center">
 
+<span style="margin-right: 18px;">
 <a href="https://bharath-portfolio-main.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
 </a>
+</span>
 
+<span style="margin-right: 18px;">
 <a href="https://github.com/bharathsankars">
 <img src="https://img.shields.io/badge/GitHub-bharathsankars-181717?style=for-the-badge&logo=github"/>
 </a>
+</span>
 
 <a href="https://linkedin.com/in/bharathsankar/">
 <img src="https://img.shields.io/badge/LinkedIn-Bharath_Sankar-0A66C2?style=for-the-badge&logo=linkedin"/>
