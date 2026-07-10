@@ -5,9 +5,7 @@
 <a href="https://bharath-portfolio-main.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-success?style=for-the-badge&logo=vercel"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://linkedin.com/in/bharathsankar/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
