@@ -1,17 +1,17 @@
 # Hello, I'm Bharath Sankar
 
-<p align="left">
+<p align="center">
 
 <a href="https://bharath-portfolio-main.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://github.com/bharathsankars">
-  <img src="https://img.shields.io/badge/GitHub-bharathsankars-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-bharathsankars-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/bharathsankar/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bharath_Sankar-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Bharath_Sankar-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
