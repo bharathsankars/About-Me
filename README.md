@@ -1,4 +1,8 @@
-# Hi, I'm Bharath Sankar 👋
+# I'm Bharath Sankar
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=flat-square&logo=vercel)](https://bharath-portfolio-main.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-bharathsankars-black?style=flat-square&logo=github)](https://github.com/bharathsankars)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath%20Sankar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/bharathsankar/)
 
 ## Full-Stack Software Engineer
 
@@ -72,7 +76,7 @@ I enjoy joining product-focused teams where engineers are trusted to take owners
 
 # Professional Experience
 
-## BMW Group — Full-Stack Engineer Intern
+## BMW Group - Full-Stack Engineer Intern
 **Jan 2026 – Present | Munich, Germany**
 
 Building enterprise applications for Battery Systems R&D.
@@ -145,9 +149,6 @@ Hospital Operations Platform for finance, staffing, and inventory management.
 # Currently Learning
 
 - Cloud-native application architecture
-- AI-powered developer workflows
-- GraphQL
-- System Design
 - AWS Solutions Architecture
 
 ---
@@ -158,9 +159,9 @@ Hospital Operations Platform for finance, staffing, and inventory management.
 
 ---
 
-# Let's Connect
+## 🌐 Connect with Me
 
-📧 **bharathsankars@hotmail.com**
-
-💼 LinkedIn  
-🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bharath-portfolio-main.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-bharathsankars-181717?style=for-the-badge&logo=github)](https://github.com/bharathsankars)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath%20Sankar-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bharathsankar/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathsankars@hotmail.com)
