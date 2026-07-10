@@ -8,10 +8,6 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/bharathsankars">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/bharathsankar/">
