@@ -157,13 +157,7 @@ Hospital Operations Platform for finance, staffing, and inventory management.
 # Currently Learning
 
 - Cloud-native application architecture
-- AWS Solutions Architecture
-
----
-
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathsankars&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+- Forward Deployed Engineering architecture
 
 ---
 
